@@ -201,23 +201,6 @@
 
 .hero-photo {
     height: 100%;
-    display: flex;
-    flex-direction: column;
-    align-self: flex-end;
-}
-
-.hero-photo__background {
-
-    width: 725px;
-    gap: 0px;
-    opacity: 0px;
-}
-
-.hero-photo__top {
-
-    width: 165px;
-    gap: 0px;
-    opacity: 0px;
-    border: 1.2px;
-
+    margin-top: 119px;
+    align-self: end;
 }
