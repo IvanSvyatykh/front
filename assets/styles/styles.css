@@ -3,6 +3,7 @@
     flex-direction: row;
     justify-content: space-between;
     background: #FFFFFF;
+    font-family: Lato;
 
 }
 
@@ -22,7 +23,6 @@
 .content__title {
     width: 601px;
     height: 132px;
-    font-family: Lato;
     font-size: 56px;
     font-weight: 700;
     line-height: 66px;
@@ -34,7 +34,6 @@
 
     width: 566px;
     height: 128px;
-    font-family: Lato;
     font-size: 24px;
     font-weight: 400;
     line-height: 32px;
@@ -89,7 +88,6 @@
 .top-frame_left__title {
     width: 73px;
     height: 29px;
-    font-family: Lato;
     font-size: 24px;
     font-weight: 700;
     line-height: 28.8px;
@@ -99,7 +97,6 @@
 .top-frame_left__text {
     width: 221px;
     height: 76px;
-    font-family: Lato;
     font-size: 16px;
     font-weight: 400;
     line-height: 19.2px;
@@ -112,14 +109,12 @@
     padding: 24px 28px 24px 24px;
     gap: 8px;
     border-radius: 24px 24px 24px 24px;
-    opacity: 0px;
     background: #F4F4F4;
 }
 
 .top-frame_right__title {
     width: 42px;
     height: 29px;
-    font-family: Lato;
     font-size: 24px;
     font-weight: 700;
     line-height: 28.8px;
@@ -129,7 +124,6 @@
 .top-frame_right__text {
     width: 221px;
     height: 76px;
-    font-family: Lato;
     font-size: 16px;
     font-weight: 400;
     line-height: 19.2px;
@@ -156,7 +150,6 @@
 
 .botton-frame_left__title {
     width: 49px;
-    font-family: Lato;
     font-size: 24px;
     font-weight: 700;
     line-height: 28.8px;
@@ -167,7 +160,6 @@
 .botton-frame_left__text {
     width: 307px;
     height: 76px;
-    font-family: Lato;
     font-size: 16px;
     font-weight: 400;
     line-height: 19.2px;
